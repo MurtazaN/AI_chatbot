@@ -1,0 +1,25 @@
+#
+ipykernel
+
+# Langchain libraries
+langchain
+langchain_core
+langchain_community # almost deprecated
+langchain_ollama
+
+# For app.py
+python-dotenv
+streamlit
+
+# For Pydantic models
+pydantic
+
+# Unique identifiers
+uuid
+
+# Langgraph
+langgraph
+
+# Tools
+arxiv==4.0.0
+wikipedia-api==0.15.0
